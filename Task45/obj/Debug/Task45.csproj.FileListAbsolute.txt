@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\bin\Debug\Task45.exe.config
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\bin\Debug\Task45.exe
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\bin\Debug\Task45.pdb
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\obj\Debug\Task45.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\obj\Debug\Task45.exe
+C:\Users\Admin\source\repos\SystemProgMutex\Task45\obj\Debug\Task45.pdb

@@ -1,0 +1,12 @@
+File: randomNumbers.txt
+Count numbers: 20
+Size of file: 98
+385 920 547 306 650 565 50 820 112 986 471 980 510 867 262 44 495 352 244 492 
+File: primaryNumbers.txt
+Count numbers: 6
+Size of file: 30
+385 547 565 471 867 495 
+File: primaryEnd7Numbers.txt
+Count numbers: 2
+Size of file: 10
+547 867 
